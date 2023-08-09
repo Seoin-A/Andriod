@@ -9,8 +9,11 @@ class MainActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // Bundle = mapping 형태
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main) // 보여줄 레이아웃 지정
+        // R : 자동 생성된 클래스 ( 모든 리소스를 식별 가능)
+//        setContentView(R.layout.activity_seoin)
 
     }
 }
