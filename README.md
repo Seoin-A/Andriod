@@ -10,4 +10,8 @@
 
 - Wifi 무선 연결 확인
 
+
+
+
+
 # Chapter 2. Android - Basic
