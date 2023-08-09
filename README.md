@@ -12,3 +12,18 @@
 
 <br><br>
 # Chapter 2. Android - Basic
+## 1) Activity & Fragment
+> 1. 안드로이드 4대 구성 요소
+>- **액티비티 : 사용자에게 유저 인터페이스 제공**
+>- 서비스 : 백그라운드 동작 수행
+>- 브로드캐스트 리시버 :  Brodcast + Receiver
+>- 콘텐트 프로바이더(제공) : Content + Provider <=> 콘텐트 리졸버(수취)
+
+> 2. Activity 생명 주기
+>- onCreate -> onStart => onResume -> 실행 중 -> onPause -> onStop -> onDestroy -> Activity 종료
+>- onRestart : onStop -> onStart
+>  <br>
+
+> ![image](https://github.com/Seoin-A/Andriod/assets/129828463/d9befb54-846e-46dc-bb98-c26facf42334)
+
+
