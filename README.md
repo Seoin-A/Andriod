@@ -1,4 +1,4 @@
-# Andriod - FirstAndroid
+# Chapter 1. Andriod - FirstAndroid
 
 ## 1) 프로젝트 생성하기
 ## 2) MainActivity.kt 코드 파일 분석
@@ -9,3 +9,5 @@
 - USB 유선 연결 확인
 
 - Wifi 무선 연결 확인
+
+# Chapter 2. Android - Basic
