@@ -35,6 +35,14 @@
 >     
 >  ![image](https://github.com/Seoin-A/Andriod/assets/129828463/1e862e65-7e7a-4ec8-b554-872249e9291d)
 >
-> onAttach() :
+>  - onAttach() : 프래그먼트가 액티비티에 더해지고 나서 실행되는 함수
+>  - onCreateView() : 프래그먼트에 그릴 뷰를 그릴떄 생성하는 함수 ( 뷰를 반환)
+>  - onActivityCreated() : 액티비티 실행 이후 프래그먼트에서 해줘야 할 작업이 있을 경우에 작성
 >
+> ![image](https://github.com/Seoin-A/Andriod/assets/129828463/645a3dd2-c750-4111-8f95-79f86cb4e0d2)
+>
+> - onDestroyView : view 리소스 사용해제 ( <=> onCreateView() )
+> - onDetach() : 액티비티와 연결을 완전히 끝 ( <=> onAttatch() )
+
+
 
