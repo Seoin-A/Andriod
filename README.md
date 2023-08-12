@@ -26,12 +26,10 @@
 
 > ![image](https://github.com/Seoin-A/Andriod/assets/129828463/d9befb54-846e-46dc-bb98-c26facf42334)
 
-
-## 2) Fragment
->- Fragment
->  1. 액티비티 안에 종속되어야 한다
->  2. 액티비티의 생명주기에 영향을 받지만, 고유의 생명주기가 존재한다.
->  3. 액티비티가 실행 중일 때 프래그먼트를 추가하거나 제거할 수 있다.
+> 3. Fragment
+>- 액티비티 안에 종속되어야 한다
+>- 액티비티의 생명주기에 영향을 받지만, 고유의 생명주기가 존재한다.
+>- 액티비티가 실행 중일 때 프래그먼트를 추가하거나 제거할 수 있다.
 >     
 >  ![image](https://github.com/Seoin-A/Andriod/assets/129828463/1e862e65-7e7a-4ec8-b554-872249e9291d)
 >
@@ -43,6 +41,27 @@
 >
 > - onDestroyView : view 리소스 사용해제 ( <=> onCreateView() )
 > - onDetach() : 액티비티와 연결을 완전히 끝 ( <=> onAttatch() )
+
+<br>
+
+## 2) VIew
+> 1. view
+>    - 위젯 : 볼 수 있는 뷰, 유저와 상호작용
+>    - view Group : 그릇 역활, 배치, 레이아웃
+>    ![image](https://github.com/Seoin-A/Andriod/assets/129828463/8dc9ad0d-28c6-4c40-9518-e1a7a505a378)
+
+<br>
+
+> 2. view 공통 속성
+>    * 너비와 높이
+>      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/579d09a5-94df-493f-92d9-d3483f47ced3)
+>        1. matcj_parent : 부모 레이아웃과 맞추기
+>        2. wrap_content : 컨텐츠에 맞추기
+>        3. 직접 지정 : dp를 직정 지정
+>    * dp 
+>    * 패딩과 마진
+> 3. view 종류
+>  
 
 
 
