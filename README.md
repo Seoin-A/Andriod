@@ -48,9 +48,7 @@
  - view
 >    1. 위젯 : 볼 수 있는 뷰, 유저와 상호작용
 >    2. view Group : 그릇 역활, 배치, 레이아웃
->      
 >      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/bcc23a11-35af-4365-bd8c-7a6ddcd67890)
->      
 > - view 공통 속성 :
 > - view 종류
 >  
