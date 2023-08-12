@@ -51,13 +51,15 @@
 >    ![image](https://github.com/Seoin-A/Andriod/assets/129828463/8dc9ad0d-28c6-4c40-9518-e1a7a505a378)
 
 <br>
+
 > 2. view 공통 속성
->  - 너비와 높이 
->   - match_parent
->   - wrap_content
->     
->    - dp
->    - 패딩과 마진
+>    * 너비와 높이
+>      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/579d09a5-94df-493f-92d9-d3483f47ced3)
+>        1. matcj_parent : 부모 레이아웃과 맞추기
+>        2. wrap_content : 컨텐츠에 맞추기
+>        3. 직접 지정 : dp를 직정 지정
+>    * dp 
+>    * 패딩과 마진
 > 3. view 종류
 >  
 
