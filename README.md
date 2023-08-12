@@ -26,12 +26,10 @@
 
 > ![image](https://github.com/Seoin-A/Andriod/assets/129828463/d9befb54-846e-46dc-bb98-c26facf42334)
 
-
-## 2) Fragment
->- Fragment
->  1. 액티비티 안에 종속되어야 한다
->  2. 액티비티의 생명주기에 영향을 받지만, 고유의 생명주기가 존재한다.
->  3. 액티비티가 실행 중일 때 프래그먼트를 추가하거나 제거할 수 있다.
+ 3. Fragment
+>- 액티비티 안에 종속되어야 한다
+>- 액티비티의 생명주기에 영향을 받지만, 고유의 생명주기가 존재한다.
+>- 액티비티가 실행 중일 때 프래그먼트를 추가하거나 제거할 수 있다.
 >     
 >  ![image](https://github.com/Seoin-A/Andriod/assets/129828463/1e862e65-7e7a-4ec8-b554-872249e9291d)
 >
@@ -43,6 +41,19 @@
 >
 > - onDestroyView : view 리소스 사용해제 ( <=> onCreateView() )
 > - onDetach() : 액티비티와 연결을 완전히 끝 ( <=> onAttatch() )
+
+<br>
+
+## 3) VIew
+ - view
+>    1. 위젯 : 볼 수 있는 뷰, 유저와 상호작용
+>    2. view Group : 그릇 역활, 배치, 레이아웃
+>      
+>      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/bcc23a11-35af-4365-bd8c-7a6ddcd67890)
+>      
+> - view 공통 속성 :
+> - view 종류
+>  
 
 
 
