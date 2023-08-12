@@ -26,7 +26,7 @@
 
 > ![image](https://github.com/Seoin-A/Andriod/assets/129828463/d9befb54-846e-46dc-bb98-c26facf42334)
 
- 3. Fragment
+> 3. Fragment
 >- 액티비티 안에 종속되어야 한다
 >- 액티비티의 생명주기에 영향을 받지만, 고유의 생명주기가 존재한다.
 >- 액티비티가 실행 중일 때 프래그먼트를 추가하거나 제거할 수 있다.
@@ -44,13 +44,21 @@
 
 <br>
 
-## 3) VIew
- - view
->    1. 위젯 : 볼 수 있는 뷰, 유저와 상호작용
->    2. view Group : 그릇 역활, 배치, 레이아웃
+## 2) VIew
+> 1. view
+>    - 위젯 : 볼 수 있는 뷰, 유저와 상호작용
+>    - view Group : 그릇 역활, 배치, 레이아웃
 >    ![image](https://github.com/Seoin-A/Andriod/assets/129828463/8dc9ad0d-28c6-4c40-9518-e1a7a505a378)
-> - view 공통 속성 :
-> - view 종류
+
+<br>
+> 2. view 공통 속성
+>  - 너비와 높이 
+>   - match_parent
+>   - wrap_content
+>     
+>    - dp
+>    - 패딩과 마진
+> 3. view 종류
 >  
 
 
