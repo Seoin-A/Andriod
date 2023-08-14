@@ -37,6 +37,48 @@
         android:textColor="#FFFFFF"
         android:textSize="26sp"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#07FAEA"
+        android:textSize="26sp"
+        android:text="패딩만 있음"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#4B653B"
+        android:textColor="#ffffff"
+        android:textSize="26sp"
+        android:text="패딩만 있음"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#07FAEA"
+        android:textSize="26sp"
+        android:text="패딩, 마진 둘 다 있음"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#4B653B"
+        android:textColor="#ffffff"
+        android:textSize="26sp"
+        android:text="패딩, 마진 둘 다 있음"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        />
+
+
+
+
+
 
 
 
