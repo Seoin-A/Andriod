@@ -59,14 +59,15 @@
 >        2. wrap_content : 컨텐츠에 맞추기
 >        3. 직접 지정 : dp를 직정 지정
 >    * dp : 픽셀로 지정할 경우, 화면의 크기는 같더라도 해상도가 다르면 크기가 달라진다. => density-independent pixel. dp를 사용하면 사용자의 해상도를 고려하지 않아도 됨
->     
+
 >    * 패딩과 마진
 >      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/8caf4c77-c672-4090-9408-3b8b8c528ee6)
 
 <br>
 
 > 3. view 종류
->    - TextVIew : 텍스트를 보여주는 뷰 
+>    - TextVIew : 텍스트를 보여주는 뷰
+>      - sp : 글자 크기를 표현하는 단위 => 큰 시스템 글자 선택이나 보통 시스템 글자 선택에 따라 달라지도록 하기 위해 sp를 사용한다 
 
 
 
