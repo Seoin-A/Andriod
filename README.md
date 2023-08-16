@@ -107,6 +107,14 @@
 >      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/62d4f8f2-56ef-4884-84ab-391b30da2831)
 
 
+</details><br>
+
+
+## 3) Layout
+1. Layout이란
+<details>
+ <summary></summary>
+ 
 </details>
 
  
