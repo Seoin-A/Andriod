@@ -78,7 +78,10 @@
 > 
 >  <br>
 >
->    - Button
+>    - Button  : TextVIew와 동일
+>    - EditText
+>      ![image](https://github.com/Seoin-A/Andriod/assets/129828463/62d4f8f2-56ef-4884-84ab-391b30da2831)
+
 >
 > 
 
