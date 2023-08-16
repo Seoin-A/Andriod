@@ -75,6 +75,13 @@
 >        3. centerCrop : 이미지뷰의 중앙에 맞추고 나머지 부분은 잘라준다
 >        4. center : 원본 이미지 크기 그대로 중앙에 맞춘다.
 >        ![image](https://github.com/Seoin-A/Andriod/assets/129828463/4cdda1ca-5d36-4458-83b3-880df4513a35)
+> 
+>  <br>
+>
+>    - Button
+>
+> 
+
  
 
 
