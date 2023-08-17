@@ -128,6 +128,19 @@
  
 </details>
 
+3. 리니어레이아웃
+ <details>
+ <summary> </summary>
+  
+ - 리니어 레이아웃이란
+   ![image](https://github.com/Seoin-A/Andriod/assets/129828463/e0dec857-4f0f-4227-8f64-50bd3fceddba)
+
+    - vertical : 수직 방향
+    - horizontal : 수평 방향
+
+ -   
+ </details>
+
  
 
 
