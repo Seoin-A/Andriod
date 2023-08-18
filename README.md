@@ -136,9 +136,11 @@
    ![image](https://github.com/Seoin-A/Andriod/assets/129828463/e0dec857-4f0f-4227-8f64-50bd3fceddba)
 
     - vertical : 수직 방향
+      - layout_gravity : start, center, end => 수평 정렬
     - horizontal : 수평 방향
-
- -   
+      - layout_gravity : top, center, bottom => 수직 정렬
+    - weight : 비중 지정
+    - weightSum : 전체 비중 지정 
  </details>
 
  
