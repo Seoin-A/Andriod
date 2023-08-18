@@ -112,36 +112,49 @@
 
 ## 3) Layout
 1. Layout이란
-<details><summary></summary>뷰 그룹의 일종으로 뷰나 다른 레이아웃을 배치하는 역할</details>
+    <details><summary></summary>뷰 그룹의 일종으로 뷰나 다른 레이아웃을 배치하는 역할</details>
 
 2. 대표적인 5가지 레아이웃
-<details>
-<summary></summary>
- 
- ![image](https://github.com/Seoin-A/Andriod/assets/129828463/65970159-7e24-44a3-be78-d5681dbe8e89)
-
- - 리니어 레이아웃 : 수직 or 수평방향으로 차례로 위치
- - 상대적 레이아웃 : 부모 or 다른 뷰를 기준으로 해당 뷰를 위치
- - 컨스트레인트 레이아웃 : 수직방향과 수평방향에 뷰를 제약하여 위치
- - 테이블 레이아웃 : 테이블 형태로 뷰를 위치
- - 프레임 레이아웃 : 액자처럼 위치
- 
-</details>
+    <details>
+        <summary></summary>
+         
+   ![image](https://github.com/Seoin-A/Andriod/assets/129828463/65970159-7e24-44a3-be78-d5681dbe8e89)
+        
+         - 리니어 레이아웃 : 수직 or 수평방향으로 차례로 위치
+         - 상대적 레이아웃 : 부모 or 다른 뷰를 기준으로 해당 뷰를 위치
+         - 컨스트레인트 레이아웃 : 수직방향과 수평방향에 뷰를 제약하여 위치
+         - 테이블 레이아웃 : 테이블 형태로 뷰를 위치
+         - 프레임 레이아웃 : 액자처럼 위치
+         
+   </details>
 
 3. 리니어레이아웃
- <details>
- <summary> </summary>
-  
- - 리니어 레이아웃이란
-   ![image](https://github.com/Seoin-A/Andriod/assets/129828463/e0dec857-4f0f-4227-8f64-50bd3fceddba)
+     <details>
+         <summary> </summary>
+      
+      1) 리니어 레이아웃이란
+       ![image](https://github.com/Seoin-A/Andriod/assets/129828463/e0dec857-4f0f-4227-8f64-50bd3fceddba)
+    
+        - vertical : 수직 방향
+          - layout_gravity : start, center, end => 수평 정렬
+        - horizontal : 수평 방향
+          - layout_gravity : top, center, bottom => 수직 정렬
+        - weight : 비중 지정
+        - weightSum : 전체 비중 지정 
+    
+     </details>
 
-    - vertical : 수직 방향
-      - layout_gravity : start, center, end => 수평 정렬
-    - horizontal : 수평 방향
-      - layout_gravity : top, center, bottom => 수직 정렬
-    - weight : 비중 지정
-    - weightSum : 전체 비중 지정 
- </details>
+ 
+4. 상대적 레이아웃 ( Relative Layout)
+    <details>
+        <summary></summary>
+        
+        1) 상대적 레이아웃이란?      다른 뷰를 기준으로 위치 
+
+
+    </details> 
+
+ 
 
  
 
