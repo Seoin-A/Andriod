@@ -149,7 +149,9 @@
     <details>
         <summary></summary>
         
-        1) 상대적 레이아웃이란?      다른 뷰를 기준으로 위치 
+        1) 상대적 레이아웃이란?      다른 뷰를 기준으로 위치
+   
+   ![image](https://github.com/Seoin-A/Andriod/assets/129828463/59ed6fd6-9819-436d-af97-a9d79ab8e8f8)
 
 
     </details> 
