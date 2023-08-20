@@ -153,8 +153,23 @@
    
    ![image](https://github.com/Seoin-A/Andriod/assets/129828463/59ed6fd6-9819-436d-af97-a9d79ab8e8f8)
 
-
     </details> 
+    
+5. 컨스트레인트 레이아웃(ConstraintLayout)
+    <details>
+      <summary></summary>
+
+      1) 컨스트레인트 레이아웃이란?  
+           LinearLayout 중첩할 때의 자원를 줄이기 위해 사용  => 중첩 사용을 피할 수 있다
+           
+      2) 기본 속성
+         
+         ![image](https://github.com/Seoin-A/Andriod/assets/129828463/444b3fc7-3f3c-448f-a55e-81d104a55c75)
+         - 수평 방향 제약
+         - 수직 방향 제약
+      3) match_constraint 
+     
+    </details>      
 
  
 
