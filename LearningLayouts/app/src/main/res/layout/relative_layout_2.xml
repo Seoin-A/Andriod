@@ -28,7 +28,34 @@
         android:text="기준 3"
         />
 
-    
+    <Button
+        android:id="@+id/stardard_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/standard1"
+        android:layout_toRightOf="@id/standard1"
+        android:text="BUTTON1"
+        />
+
+    <Button
+        android:id="@+id/stardard_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/standard2"
+        android:layout_toRightOf="@id/standard2"
+        android:text="BUTTON2"
+        />
+
+    <Button
+        android:id="@+id/stardard_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/standard3"
+        android:layout_toLeftOf="@id/standard3"
+        android:text="BUTTON3"
+        />
+
+
 
     
 
