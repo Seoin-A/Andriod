@@ -4,11 +4,31 @@
     android:layout_height="match_parent">
 
     <Button
+        android:id="@+id/standard1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:text="parent\nstart"
+        android:text="기준 1"
         />
+
+    <Button
+        android:id="@+id/standard2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="기준2"
+        />
+
+    <Button
+        android:id="@+id/standard3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="기준 3"
+        />
+
+    
 
     
 
