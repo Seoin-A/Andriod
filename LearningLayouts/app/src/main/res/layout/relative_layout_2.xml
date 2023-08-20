@@ -54,12 +54,4 @@
         android:layout_toLeftOf="@id/standard3"
         android:text="BUTTON3"
         />
-
-
-
-    
-
-
-
-
 </RelativeLayout>
