@@ -173,6 +173,12 @@
      
     </details>      
 
+ 6. 반응형 UI
+    <details>
+       <summary></summary>
+       - Guideline  
+    </details>
+
  
 
  
